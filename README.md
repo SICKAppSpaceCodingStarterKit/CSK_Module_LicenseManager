@@ -1,22 +1,23 @@
 # CSK_Module_LicenseManager
-## INFO: Draft version. Not further developed / tested so far! Check for available GitHub forks of this repository to see latest updates.
 
 Module to provide SICK LicenseManager functionality.
 
-*If available, please also add a screenshot/gif of the UI of the module here placed within /docu/media/ (see code)*
 ![](./docu/media/UI_Screenshot.png)
 
 ## How to Run
 
-[***...please fill with informations...***]  
 For further information check out the [documentation](https://raw.githack.com/SICKAppSpaceCodingStarterKit/CSK_Module_LicenseManager/main/docu/CSK_Module_LicenseManager.html) in the folder "docu".
 
 ## Information
 
+**INFO for developers**  
+UI sources are not included in this repository.  
+
 Tested on:
-|Device|Firmware|Module version
+|Device|Firmware|Module version|
 |--|--|--|
-|e.g. SICK AppEngine|V1.5.0|V0.1.0|
+|SICK AppEngine|V1.7.0|V1.0.0|
+|SIM1012|V2.4.2|V1.0.0|
 
 This module is part of the SICK AppSpace Coding Starter Kit developing approach.  
 It is programmed in an object oriented way. Some of the modules use kind of "classes" in Lua to make it possible to reuse code / classes in other projects.  
